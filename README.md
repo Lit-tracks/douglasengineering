@@ -1,2 +1,2 @@
 # douglasengineering
-The douglasengineering website
+The Douglas Engineering website
